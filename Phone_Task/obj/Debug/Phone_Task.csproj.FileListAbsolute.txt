@@ -1,0 +1,12 @@
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\Phone_Task.exe.config
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\Phone_Task.exe
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\Phone_Task.pdb
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\Dapper.dll
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\System.Data.SqlClient.dll
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\Dapper.xml
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\bin\Debug\System.Data.SqlClient.xml
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\obj\Debug\Phone_Task.csprojAssemblyReference.cache
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\obj\Debug\Phone_Task.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\obj\Debug\Phone_Task.csproj.CopyComplete
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\obj\Debug\Phone_Task.exe
+C:\Users\famil\source\repos\Phone_Task\Phone_Task\obj\Debug\Phone_Task.pdb
